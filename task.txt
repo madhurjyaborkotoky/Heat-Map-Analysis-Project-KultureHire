@@ -1,0 +1,16 @@
+## Welcome to the Prerequisite Program
+
+### What to do
+You are given a task to analyze a summarized data and find the day where the most sales happen in a pizza store.
+
+## What you will achieve
+You would have learnt about creating Heat maps using Conditional formatting in Excel and understood how heat maps help you visually understand patterns.
+
+
+## What the output should look like.
+
+1. The heat map should be of a 2 color scale.
+
+2. The color for the highest value should be dark blue. 
+
+3. The color for the lowest value should be white.
